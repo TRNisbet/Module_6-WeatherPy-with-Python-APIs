@@ -1,2 +1,2 @@
 # Enter your API key
-gkey = "YOUR KEY HERE!"
+gkey = "AIzaSyBOvLmPulB3Y5xiUsQzkdWMn95x8pYe5Es"
